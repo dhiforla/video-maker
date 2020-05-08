@@ -1,0 +1,7 @@
+{"name": "video-maker",
+  "version": "1.0.0",
+  "description": "Projeto open source para fazer vídeos automatizados",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "nodemon ."},
